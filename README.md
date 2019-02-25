@@ -1,1 +1,1 @@
-# Kaggle MNIST data 
+# Neural Network Models on Kaggle data
