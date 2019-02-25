@@ -1,1 +1,1 @@
-# hadoop
+# Kaggle MNIST data 
